@@ -12,4 +12,9 @@ footer{
     margin-top: 30px;
 }
 
-
+#sep {
+    background-color:rgb(170, 240, 216);
+    padding-left:10%;
+    padding-right: 10%;
+    margin: 5px;
+    }
